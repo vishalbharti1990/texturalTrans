@@ -1,4 +1,4 @@
-# texturalTrans
+# Textural Transform of images
 Visual studio c++ code to get texturally transformed image
 
 # References
