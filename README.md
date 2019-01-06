@@ -6,4 +6,4 @@ Visual studio c++ code to get texturally transformed image
 
 * [Computer vision and pattern recognition toolbox](https://github.com/sonots/cvprtoolbox)
 
-* [Dependence-ROBERT M HARALICK]{https://www.sciencedirect.com/science/article/abs/pii/S0167865517304464}
+* [Dependence-ROBERT M HARALICK](https://www.sciencedirect.com/science/article/abs/pii/S0167865517304464)
